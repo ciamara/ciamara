@@ -25,7 +25,7 @@ I love C#, kitties 🐈, metal music, drawing and baking.
 
 ## Contact
 
-<img align="right" src="kitty1.jpg" alt="kitty" />
+<img align="right" src="kitty1 (1).jpg" alt="kitty" />
 
 - mruktamara64@gmail.com
 
