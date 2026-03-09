@@ -23,15 +23,14 @@ I love C#, kitties 🐈, metal music, drawing and baking.
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,java,python,git,github,vscode,visualstudio" />     
 </div>
 
-
 ## Contact
+
+<img align="right" src="kitty1.jpg" alt="kitty" />
+
 - mruktamara64@gmail.com
 <a href="https://www.linkedin.com">
   <img src="https://skillicons.dev/icons?i=linkedin" /> 
 </a>
-
-<img align="right" src="" alt="kitty" />
-
 
 ### Resume
 > [!IMPORTANT]  
