@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=11" alt="header"/>      
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=11&text=:3" alt="header"/>      
 
 # About me      
 
@@ -28,12 +28,13 @@ I love C#, kitties 🐈, metal music, drawing and baking.
 <img align="right" src="kitty1.jpg" alt="kitty" />
 
 - mruktamara64@gmail.com
-<a href="https://www.linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" /> 
+
+<a href="https://www.linkedin.com/in/tamara-mruk-33837b281/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> 
 </a>
 
 ### Resume
 > [!IMPORTANT]  
-> <a href="" download>Download my resume</a>
+> <a href="" download>tba</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=11&section=footer" alt="header"/>   
