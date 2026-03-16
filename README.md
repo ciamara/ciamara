@@ -35,6 +35,6 @@ I love C#, kitties 🐈, metal music, drawing and baking.
 
 ### Resume
 > [!IMPORTANT]  
-> <a href="" download>tba</a>
+> [resume](./resume.pdf)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=11&section=footer" alt="header"/>   
